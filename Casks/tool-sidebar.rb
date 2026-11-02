@@ -1,6 +1,6 @@
 cask "tool-sidebar" do
-  version "1.5.0"
-  sha256 "e3672ad6410f0ba277c2ad379fdb0e0870a95ec5450033d936727b6a4ad7ea02"
+  version "1.5.1"
+  sha256 "12bb44a5f6a0a81f8ba3bdc0851d5a92e275ccb33c44d14c2db504d1805e29f4"
 
   url "https://github.com/LOVERS0/tool-sidebar/releases/download/v#{version}/ToolSidebar.zip",
       verified: "github.com/LOVERS0/tool-sidebar/"
